@@ -3,6 +3,7 @@
  *
  * Author:      Vladimir Barinov, <vbarinov@embeddedalley.com>
  * Copyright:   (C) 2007 MontaVista Software, Inc., <source@mvista.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on sound/soc/codecs/wm8753.c by Liam Girdwood
  *
