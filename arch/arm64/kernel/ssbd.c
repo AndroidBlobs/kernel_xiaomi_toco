@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2018 ARM Ltd, All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/compat.h>
